@@ -1,6 +1,3 @@
-# 42_CPP_00-04
-
-![42 School](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/42_School_logo.svg/1200px-42_School_logo.svg.png)
 
 This repository contains my solutions for the 42 School C++ modules 00 to 04. These modules serve as an introduction to object-oriented programming in C++, covering fundamental concepts and laying the groundwork for more advanced topics.
 
@@ -25,11 +22,3 @@ This repository contains my solutions for the 42 School C++ modules 00 to 04. Th
 ### CPP04 - Advanced OOP Concepts
 - **Objective**: Master advanced OOP concepts.
 - **Key Concepts**: Abstract classes, interfaces, deep copy constructors, assignment operators.
-
-## 🛠️ Compilation & Execution
-
-To compile and run the programs:
-
-```bash
-make
-./<executable_name>
